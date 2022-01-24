@@ -28,9 +28,9 @@ and "start_game" methods to run the game.
 Required software: VS-code (or other program to run the code), Python 3.
 
 Team members:            
-Brenner Mann
-Elizeu Ferreira
-Josifini Tamanalevu
-Mahonrri Mendez
-Shawn Yang
-Alexander Karasik (kar21020@byui.edu)
+Brenner Mann,
+Elizeu Ferreira,
+Josifini Tamanalevu,
+Mahonrri Mendez,
+Shawn Yang,
+Alexander Karasik (kar21020@byui.edu).
